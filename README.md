@@ -66,7 +66,7 @@
 
 ## Certifications
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
       <a href="https://www.boot.dev/certificates/b81dd118-4209-49e6-b35b-22e198f4f43d">
